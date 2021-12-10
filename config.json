@@ -1,0 +1,12 @@
+{
+    "Credentials":{
+      "News_API": "d1924a4250324559be30d5f21e897d9b"
+    },
+    "Variable Data":{
+      "ltla": "Exeter",
+      "nation": "England",
+      "Number of news articles": 10,
+      "News Key Terms": "Covid COVID-19 coronavirus",
+      "Title": "Covid-19 Dashboard"
+    }
+  }
